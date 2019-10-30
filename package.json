@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "description": "Resume for Donavon West",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donavon/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Donavon West <github@doavon.com> (https://donavon.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donavon/resume/issues"
+  },
+  "homepage": "https://github.com/donavon/resume#readme"
+}
